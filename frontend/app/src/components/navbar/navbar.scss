@@ -3,9 +3,25 @@ a {
 }
 
 nav {
-    text-align: center;
 
+    margin-left: 28px;
+    display: flex;
+    align-items: flex-end;
     ul {
         list-style: none ;
+        margin: 0px;
+        li{
+            display: inline-block;
+            margin-right: 29px;
+
+            a {
+                font-family: 'Montserrat Alternates';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 30px;
+                line-height: 37px;
+                color: #2D2D2D;
+            }
+        }
     }
 }

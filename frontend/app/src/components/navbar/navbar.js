@@ -1,8 +1,8 @@
 import React from 'react'
-import './nabar.scss'
+import './navbar.scss'
 
 export const Navbar = () => {
-    render(
+    return(
         <nav>
             <ul>
                 <li>
