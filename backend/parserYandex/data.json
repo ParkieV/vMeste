@@ -1,0 +1,1461 @@
+{
+    "data": [
+        {
+            "event": {
+                "id": "6308a2b94b3a700125c0414a",
+                "url": "/moscow/musical/nichego-ne-boisia-ia-s-toboi-brodvei-moskva",
+                "title": "Ничего не бойся, я с тобой",
+                "originalTitle": null,
+                "dateReleased": null,
+                "permanent": false,
+                "systemTags": [
+                    {
+                        "code": "musical"
+                    },
+                    {
+                        "code": "theatre"
+                    },
+                    {
+                        "code": "23february"
+                    },
+                    {
+                        "code": "nearest-events"
+                    },
+                    {
+                        "code": "tickets-gift"
+                    },
+                    {
+                        "code": "yandexafisha-choice"
+                    },
+                    {
+                        "code": "season-premiere"
+                    },
+                    {
+                        "code": "big-tickets-theatre"
+                    },
+                    {
+                        "code": "high-rated"
+                    },
+                    {
+                        "code": "discount-event"
+                    },
+                    {
+                        "code": "elki-adults"
+                    },
+                    {
+                        "code": "pushkin-card-best"
+                    },
+                    {
+                        "code": "max-cashback"
+                    },
+                    {
+                        "code": "mvs-text"
+                    },
+                    {
+                        "code": "theatre-autumn"
+                    },
+                    {
+                        "code": "theatre-2022"
+                    },
+                    {
+                        "code": "traditional-theatre"
+                    },
+                    {
+                        "code": "non-children"
+                    },
+                    {
+                        "code": "non-puppets"
+                    },
+                    {
+                        "code": "musical-event"
+                    },
+                    {
+                        "code": "quest-players-1"
+                    },
+                    {
+                        "code": "quest-players-2"
+                    },
+                    {
+                        "code": "quest-players-3"
+                    },
+                    {
+                        "code": "quest-players-4"
+                    },
+                    {
+                        "code": "quest-players-5"
+                    },
+                    {
+                        "code": "quest-players-6"
+                    },
+                    {
+                        "code": "quest-players-7"
+                    },
+                    {
+                        "code": "quest-players-8"
+                    }
+                ],
+                "argument": "Романтическая история с хитами группы «Секрет»",
+                "promoArgument": null,
+                "contentRating": "12+",
+                "kinopoisk": null,
+                "userRating": {
+                    "overall": {
+                        "value": 9.3,
+                        "count": 296691
+                    }
+                },
+                "isFavorite": false,
+                "type": {
+                    "id": "566991d27c650906c42d02b8",
+                    "code": "theatre",
+                    "type": "format",
+                    "status": "reviewed",
+                    "name": "Театр",
+                    "plural": {
+                        "one": "Театр",
+                        "some": "спектакля",
+                        "many": "спектаклей",
+                        "none": "спектаклей"
+                    },
+                    "namePlural": "Театр",
+                    "nameCases": {
+                        "acc": "в театр",
+                        "gen": "театра"
+                    }
+                },
+                "tags": [
+                    {
+                        "id": "5575d413cc1c724f5a8e10de",
+                        "code": "musical",
+                        "type": "format",
+                        "status": "approved",
+                        "name": "Мюзикл",
+                        "plural": null,
+                        "namePlural": "Мюзиклы",
+                        "nameCases": {
+                            "acc": "на мюзикл",
+                            "gen": "мюзикла"
+                        }
+                    }
+                ],
+                "image": {
+                    "subType": null,
+                    "source": {
+                        "id": null,
+                        "title": null,
+                        "url": null
+                    },
+                    "bgColor": "#4b4b75",
+                    "baseColor": "#dfddfa",
+                    "eventCover": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s270x135",
+                        "width": 270,
+                        "height": 135,
+                        "precision": 1
+                    },
+                    "eventCoverXS": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/90x60",
+                        "width": 90,
+                        "height": 60,
+                        "precision": 1
+                    },
+                    "eventCoverS": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/100x60",
+                        "width": 100,
+                        "height": 60,
+                        "precision": 1
+                    },
+                    "eventCoverL": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s380x220",
+                        "width": 380,
+                        "height": 220,
+                        "precision": 1
+                    },
+                    "eventCoverL2x": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s760x440",
+                        "width": 760,
+                        "height": 440,
+                        "precision": 1
+                    },
+                    "eventCoverM": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s380x190",
+                        "width": 380,
+                        "height": 190,
+                        "precision": 1
+                    },
+                    "eventCoverM2x": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s760x380",
+                        "width": 760,
+                        "height": 380,
+                        "precision": 1
+                    },
+                    "featured": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s940x380",
+                        "width": 940,
+                        "height": 380,
+                        "precision": 1
+                    },
+                    "featuredSelection": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s420x140",
+                        "width": 420,
+                        "height": 140,
+                        "precision": 1
+                    },
+                    "headingPrimaryS": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s1260x400",
+                        "width": 974,
+                        "height": 400,
+                        "precision": 0
+                    },
+                    "microdata": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/orig",
+                        "width": 974,
+                        "height": 942,
+                        "precision": 1
+                    },
+                    "suggest": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s130x90",
+                        "width": 130,
+                        "height": 90,
+                        "precision": 1
+                    },
+                    "type": "image",
+                    "sizes": {
+                        "eventCover": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s270x135",
+                            "width": 270,
+                            "height": 135,
+                            "precision": 1
+                        },
+                        "eventCoverXS": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/90x60",
+                            "width": 90,
+                            "height": 60,
+                            "precision": 1
+                        },
+                        "eventCoverS": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/100x60",
+                            "width": 100,
+                            "height": 60,
+                            "precision": 1
+                        },
+                        "eventCoverL": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s380x220",
+                            "width": 380,
+                            "height": 220,
+                            "precision": 1
+                        },
+                        "eventCoverL2x": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s760x440",
+                            "width": 760,
+                            "height": 440,
+                            "precision": 1
+                        },
+                        "eventCoverM": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s380x190",
+                            "width": 380,
+                            "height": 190,
+                            "precision": 1
+                        },
+                        "eventCoverM2x": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s760x380",
+                            "width": 760,
+                            "height": 380,
+                            "precision": 1
+                        },
+                        "featured": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s940x380",
+                            "width": 940,
+                            "height": 380,
+                            "precision": 1
+                        },
+                        "featuredSelection": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s420x140",
+                            "width": 420,
+                            "height": 140,
+                            "precision": 1
+                        },
+                        "headingPrimaryS": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s1260x400",
+                            "width": 974,
+                            "height": 400,
+                            "precision": 0
+                        },
+                        "microdata": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/orig",
+                            "width": 974,
+                            "height": 942,
+                            "precision": 1
+                        },
+                        "suggest": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/23114/999f00e24479cd06256bcd59dbe59b92/s130x90",
+                            "width": 130,
+                            "height": 90,
+                            "precision": 1
+                        }
+                    }
+                },
+                "promoImage2": {
+                    "featuredDesktop": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/28638/9eef9a0b9270690860401037dbee06fe/s940x380",
+                        "width": 940,
+                        "height": 380,
+                        "precision": 1,
+                        "retina": {
+                            "1x": "https://avatars.mds.yandex.net/get-afishanew/28638/9eef9a0b9270690860401037dbee06fe/s940x380",
+                            "2x": "https://avatars.mds.yandex.net/get-afishanew/28638/9eef9a0b9270690860401037dbee06fe/s1880x760"
+                        }
+                    },
+                    "featuredBannerDesktop": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/29882/3cf7ec7b5aec090daf6db14df226022b/285x167",
+                        "width": 285,
+                        "height": 167,
+                        "precision": 1,
+                        "retina": {
+                            "1x": "https://avatars.mds.yandex.net/get-afishanew/29882/3cf7ec7b5aec090daf6db14df226022b/285x167",
+                            "2x": "https://avatars.mds.yandex.net/get-afishanew/29882/3cf7ec7b5aec090daf6db14df226022b/570x334"
+                        }
+                    },
+                    "previewL": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/21626/33579f64c6fb39b7d585bd3785aa6839/s380x220",
+                        "width": 380,
+                        "height": 220,
+                        "precision": 1,
+                        "retina": {
+                            "1x": "https://avatars.mds.yandex.net/get-afishanew/21626/33579f64c6fb39b7d585bd3785aa6839/s380x220",
+                            "2x": "https://avatars.mds.yandex.net/get-afishanew/21626/33579f64c6fb39b7d585bd3785aa6839/s760x440"
+                        }
+                    },
+                    "previewM": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/21626/33579f64c6fb39b7d585bd3785aa6839/s343x190",
+                        "width": 343,
+                        "height": 190,
+                        "precision": 1,
+                        "retina": {
+                            "1x": "https://avatars.mds.yandex.net/get-afishanew/21626/33579f64c6fb39b7d585bd3785aa6839/s343x190",
+                            "2x": "https://avatars.mds.yandex.net/get-afishanew/21626/33579f64c6fb39b7d585bd3785aa6839/s686x380"
+                        }
+                    },
+                    "previewS": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/21626/33579f64c6fb39b7d585bd3785aa6839/s220x144",
+                        "width": 220,
+                        "height": 144,
+                        "precision": 1,
+                        "retina": {
+                            "1x": "https://avatars.mds.yandex.net/get-afishanew/21626/33579f64c6fb39b7d585bd3785aa6839/s220x144",
+                            "2x": "https://avatars.mds.yandex.net/get-afishanew/21626/33579f64c6fb39b7d585bd3785aa6839/s440x288"
+                        }
+                    },
+                    "previewXS": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/21626/33579f64c6fb39b7d585bd3785aa6839/s380x220",
+                        "width": 380,
+                        "height": 220,
+                        "precision": 1,
+                        "retina": {
+                            "1x": "https://avatars.mds.yandex.net/get-afishanew/21626/33579f64c6fb39b7d585bd3785aa6839/s380x220",
+                            "2x": "https://avatars.mds.yandex.net/get-afishanew/21626/33579f64c6fb39b7d585bd3785aa6839/s760x440"
+                        }
+                    }
+                },
+                "promoVideo2": {
+                    "featuredDesktop": {
+                        "poster": {
+                            "x1": {
+                                "url": "https://avatars.mds.yandex.net/get-afishanew/31447/2bc703195901a57b949a5c1d4dfec65f/s940x380",
+                                "width": 940,
+                                "height": 380,
+                                "precision": 1
+                            },
+                            "x2": {
+                                "url": "https://avatars.mds.yandex.net/get-afishanew/31447/2bc703195901a57b949a5c1d4dfec65f/s1880x760",
+                                "width": 1260,
+                                "height": 500,
+                                "precision": 0
+                            }
+                        },
+                        "mp4": "https://video-preview.s3.yandex.net/ugc/4951669ee2730d833a3b892915f83b4b_vmaf-preview-10s-500.mp4",
+                        "webm": "https://video-preview.s3.yandex.net/ugc/4951669ee2730d833a3b892915f83b4b_vmaf-preview-10s-500.webm"
+                    }
+                },
+                "tickets": [
+                    {
+                        "id": "317299",
+                        "price": {
+                            "currency": "rub",
+                            "min": 90000,
+                            "max": 1000000
+                        },
+                        "discount": {
+                            "dateStart": "2023-03-22T12:00:00",
+                            "dateFinish": "2023-03-29T00:00:00",
+                            "discountPercent": null
+                        },
+                        "saleStatus": "available",
+                        "hasSpecificLoyalty": false,
+                        "hasSpecificPlusWalletPercent": true,
+                        "plusWalletPercent": 5,
+                        "discountPercents": []
+                    }
+                ]
+            },
+            "scheduleInfo": {
+                "dates": [
+                    "2023-03-24",
+                    "2023-03-25",
+                    "2023-03-26",
+                    "2023-03-28",
+                    "2023-03-29",
+                    "2023-03-31",
+                    "2023-04-01",
+                    "2023-04-02",
+                    "2023-04-04",
+                    "2023-04-05",
+                    "2023-04-06",
+                    "2023-04-07",
+                    "2023-04-08",
+                    "2023-04-09",
+                    "2023-04-11",
+                    "2023-04-12",
+                    "2023-04-13",
+                    "2023-04-14",
+                    "2023-04-15",
+                    "2023-04-16",
+                    "2023-04-18",
+                    "2023-04-19",
+                    "2023-04-20",
+                    "2023-04-22",
+                    "2023-04-23",
+                    "2023-04-25",
+                    "2023-04-26",
+                    "2023-04-27",
+                    "2023-04-28",
+                    "2023-04-29",
+                    "2023-04-30",
+                    "2023-05-01",
+                    "2023-05-03",
+                    "2023-05-04",
+                    "2023-05-05",
+                    "2023-05-06",
+                    "2023-05-07",
+                    "2023-05-08",
+                    "2023-05-09",
+                    "2023-05-11",
+                    "2023-05-12",
+                    "2023-05-13",
+                    "2023-05-14",
+                    "2023-05-16",
+                    "2023-05-17",
+                    "2023-05-18",
+                    "2023-05-20",
+                    "2023-05-21",
+                    "2023-05-23",
+                    "2023-05-24",
+                    "2023-05-27",
+                    "2023-05-28",
+                    "2023-05-30",
+                    "2023-05-31",
+                    "2023-06-01",
+                    "2023-06-03",
+                    "2023-06-06",
+                    "2023-06-07",
+                    "2023-06-08",
+                    "2023-06-10",
+                    "2023-06-13",
+                    "2023-06-14",
+                    "2023-06-15",
+                    "2023-06-17",
+                    "2023-06-20",
+                    "2023-06-21",
+                    "2023-06-22",
+                    "2023-06-24",
+                    "2023-06-27",
+                    "2023-06-28",
+                    "2023-06-29"
+                ],
+                "dateStarted": "2022-11-26",
+                "dateEnd": "2023-06-29",
+                "dateGroups": [
+                    {
+                        "title": "Март",
+                        "date": "2023-03-24",
+                        "period": 8,
+                        "hasTickets": true,
+                        "hasDiscounts": true
+                    },
+                    {
+                        "title": "Апрель",
+                        "date": "2023-04-01",
+                        "period": 30,
+                        "hasTickets": true,
+                        "hasDiscounts": true
+                    },
+                    {
+                        "title": "Май",
+                        "date": "2023-05-01",
+                        "period": 31,
+                        "hasTickets": true,
+                        "hasDiscounts": true
+                    },
+                    {
+                        "title": "Июнь",
+                        "date": "2023-06-01",
+                        "period": 29,
+                        "hasTickets": true,
+                        "hasDiscounts": true
+                    }
+                ],
+                "dateReleased": null,
+                "permanent": false,
+                "multiSession": false,
+                "onlyPlace": {
+                    "id": "5516a4171f7d154a12dc66a1",
+                    "url": "/moscow/theatre/places/mdm-msk",
+                    "title": "Московский дворец молодёжи",
+                    "logo": {
+                        "bgColor": "#262424",
+                        "microdata": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/orig",
+                            "width": 300,
+                            "height": 300,
+                            "precision": 1
+                        },
+                        "place": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/70x70",
+                            "width": 70,
+                            "height": 70,
+                            "precision": 1
+                        },
+                        "placeCover": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/100x100_noncrop",
+                            "width": 100,
+                            "height": 100,
+                            "precision": 1
+                        },
+                        "placeCoverXS": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/103x103",
+                            "width": 103,
+                            "height": 103,
+                            "precision": 1
+                        },
+                        "placeCoverM": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/170x170",
+                            "width": 170,
+                            "height": 170,
+                            "precision": 1
+                        },
+                        "touchPlace": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/80x80_noncrop",
+                            "width": 80,
+                            "height": 80,
+                            "precision": 1
+                        },
+                        "touchPlaceCard": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/140x140_noncrop",
+                            "width": 140,
+                            "height": 140,
+                            "precision": 1
+                        },
+                        "touchPlaceCover": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/220x220_noncrop",
+                            "width": 220,
+                            "height": 220,
+                            "precision": 1
+                        },
+                        "touchConcertPlace": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/88x88",
+                            "width": 88,
+                            "height": 88,
+                            "precision": 1
+                        }
+                    },
+                    "address": "Комсомольский просп., 28",
+                    "type": {
+                        "id": "5575d419cc1c724f5a8e1151",
+                        "rubricUrl": "/moscow/theater_place",
+                        "rubricPlacesUrl": "/moscow/theater_place/places",
+                        "code": "theater_place",
+                        "description": null,
+                        "type": "place",
+                        "status": "approved",
+                        "name": "Театр",
+                        "namePlural": "театры",
+                        "nameAcc": "в театр",
+                        "nameGen": null,
+                        "nameAdj": null,
+                        "plural": null
+                    },
+                    "tags": [
+                        {
+                            "id": "5575d419cc1c724f5a8e1151",
+                            "rubricUrl": "/moscow/theater_place",
+                            "rubricPlacesUrl": "/moscow/theater_place/places",
+                            "code": "theater_place",
+                            "description": null,
+                            "type": "place",
+                            "status": "approved",
+                            "name": "Театр",
+                            "namePlural": "театры",
+                            "nameAcc": "в театр",
+                            "nameGen": null,
+                            "nameAdj": null,
+                            "plural": null
+                        }
+                    ],
+                    "systemTags": [
+                        {
+                            "code": "theater_place"
+                        },
+                        {
+                            "code": "theatre-go-place"
+                        }
+                    ],
+                    "city": {
+                        "id": "moscow",
+                        "name": "Москва",
+                        "geoid": 213,
+                        "timezone": "Europe/Moscow"
+                    },
+                    "metro": [
+                        {
+                            "name": "Фрунзенская",
+                            "colors": [
+                                "#f23d30"
+                            ]
+                        },
+                        {
+                            "name": "Спортивная",
+                            "colors": [
+                                "#f23d30"
+                            ]
+                        },
+                        {
+                            "name": "Парк культуры",
+                            "colors": [
+                                "#805139"
+                            ]
+                        }
+                    ],
+                    "coordinates": {
+                        "longitude": 37.57964499999999,
+                        "latitude": 55.726876999999995
+                    },
+                    "bgColor": "#2e6f6f",
+                    "logoColor": "#4ebcbc",
+                    "distance": null,
+                    "isFavorite": false,
+                    "promoImage2FeaturedDesktop": null,
+                    "promoImage2FeaturedBannerDesktop": null,
+                    "promoVideo2FeaturedDesktop": null
+                },
+                "oneOfPlaces": {
+                    "id": "5516a4171f7d154a12dc66a1",
+                    "url": "/moscow/theatre/places/mdm-msk",
+                    "title": "Московский дворец молодёжи",
+                    "logo": {
+                        "bgColor": "#262424",
+                        "microdata": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/orig",
+                            "width": 300,
+                            "height": 300,
+                            "precision": 1
+                        },
+                        "place": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/70x70",
+                            "width": 70,
+                            "height": 70,
+                            "precision": 1
+                        },
+                        "placeCover": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/100x100_noncrop",
+                            "width": 100,
+                            "height": 100,
+                            "precision": 1
+                        },
+                        "placeCoverXS": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/103x103",
+                            "width": 103,
+                            "height": 103,
+                            "precision": 1
+                        },
+                        "placeCoverM": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/170x170",
+                            "width": 170,
+                            "height": 170,
+                            "precision": 1
+                        },
+                        "touchPlace": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/80x80_noncrop",
+                            "width": 80,
+                            "height": 80,
+                            "precision": 1
+                        },
+                        "touchPlaceCard": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/140x140_noncrop",
+                            "width": 140,
+                            "height": 140,
+                            "precision": 1
+                        },
+                        "touchPlaceCover": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/220x220_noncrop",
+                            "width": 220,
+                            "height": 220,
+                            "precision": 1
+                        },
+                        "touchConcertPlace": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/36842/27dd8416aa48261063000c87dc869786/88x88",
+                            "width": 88,
+                            "height": 88,
+                            "precision": 1
+                        }
+                    },
+                    "address": "Комсомольский просп., 28",
+                    "type": {
+                        "id": "5575d419cc1c724f5a8e1151",
+                        "rubricUrl": "/moscow/theater_place",
+                        "rubricPlacesUrl": "/moscow/theater_place/places",
+                        "code": "theater_place",
+                        "description": null,
+                        "type": "place",
+                        "status": "approved",
+                        "name": "Театр",
+                        "namePlural": "театры",
+                        "nameAcc": "в театр",
+                        "nameGen": null,
+                        "nameAdj": null,
+                        "plural": null
+                    },
+                    "tags": [
+                        {
+                            "id": "5575d419cc1c724f5a8e1151",
+                            "rubricUrl": "/moscow/theater_place",
+                            "rubricPlacesUrl": "/moscow/theater_place/places",
+                            "code": "theater_place",
+                            "description": null,
+                            "type": "place",
+                            "status": "approved",
+                            "name": "Театр",
+                            "namePlural": "театры",
+                            "nameAcc": "в театр",
+                            "nameGen": null,
+                            "nameAdj": null,
+                            "plural": null
+                        }
+                    ],
+                    "systemTags": [
+                        {
+                            "code": "theater_place"
+                        },
+                        {
+                            "code": "theatre-go-place"
+                        }
+                    ],
+                    "city": {
+                        "id": "moscow",
+                        "name": "Москва",
+                        "geoid": 213,
+                        "timezone": "Europe/Moscow"
+                    },
+                    "metro": [
+                        {
+                            "name": "Фрунзенская",
+                            "colors": [
+                                "#f23d30"
+                            ]
+                        },
+                        {
+                            "name": "Спортивная",
+                            "colors": [
+                                "#f23d30"
+                            ]
+                        },
+                        {
+                            "name": "Парк культуры",
+                            "colors": [
+                                "#805139"
+                            ]
+                        }
+                    ],
+                    "coordinates": {
+                        "longitude": 37.57964499999999,
+                        "latitude": 55.726876999999995
+                    },
+                    "bgColor": "#2e6f6f",
+                    "logoColor": "#4ebcbc",
+                    "distance": null,
+                    "isFavorite": false,
+                    "promoImage2FeaturedDesktop": null,
+                    "promoImage2FeaturedBannerDesktop": null,
+                    "promoVideo2FeaturedDesktop": null
+                },
+                "placePreview": "Московский дворец молодёжи",
+                "placesTotal": 1,
+                "preview": {
+                    "type": "date",
+                    "text": "сб 25 марта",
+                    "singleDate": {
+                        "day": "25",
+                        "month": "марта"
+                    },
+                    "regularity": null,
+                    "startDate": null
+                },
+                "collapsedText": null,
+                "tagsPreview": null,
+                "prices": [
+                    {
+                        "currency": "rub",
+                        "value": 90000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 130000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 140000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 180000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 190000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 230000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 280000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 330000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 380000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 430000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 480000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 530000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 630000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 680000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 730000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 900000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 1000000
+                    }
+                ],
+                "pushkinCardAllowed": false,
+                "regularity": {
+                    "singleShowtime": null,
+                    "isRegular": false,
+                    "daily": [],
+                    "weekly": []
+                }
+            },
+            "distance": null,
+            "isPersonal": false,
+            "commentsCount": 0
+        },
+        {
+            "event": {
+                "id": "63c957e8b7e95d007682021c",
+                "url": "/moscow/show/soiuz-chempionov-evgeniia-pliushchenko-russkie-sezony",
+                "title": "Союз чемпионов Евгения Плющенко. Русские сезоны",
+                "originalTitle": null,
+                "dateReleased": null,
+                "permanent": false,
+                "systemTags": [
+                    {
+                        "code": "show"
+                    },
+                    {
+                        "code": "ice-show"
+                    },
+                    {
+                        "code": "nearest-events"
+                    },
+                    {
+                        "code": "kids"
+                    },
+                    {
+                        "code": "over3"
+                    },
+                    {
+                        "code": "over7"
+                    },
+                    {
+                        "code": "over12"
+                    },
+                    {
+                        "code": "sport"
+                    },
+                    {
+                        "code": "sport-best"
+                    },
+                    {
+                        "code": "topshows"
+                    },
+                    {
+                        "code": "tickets-gift"
+                    },
+                    {
+                        "code": "23february"
+                    },
+                    {
+                        "code": "discount-popular"
+                    },
+                    {
+                        "code": "discount-event"
+                    },
+                    {
+                        "code": "non-puppets"
+                    },
+                    {
+                        "code": "quest-players-1"
+                    },
+                    {
+                        "code": "quest-players-2"
+                    },
+                    {
+                        "code": "quest-players-3"
+                    },
+                    {
+                        "code": "quest-players-4"
+                    },
+                    {
+                        "code": "quest-players-5"
+                    },
+                    {
+                        "code": "quest-players-6"
+                    },
+                    {
+                        "code": "quest-players-7"
+                    },
+                    {
+                        "code": "quest-players-8"
+                    }
+                ],
+                "argument": "Ледовое шоу с балетом",
+                "promoArgument": null,
+                "contentRating": "0+",
+                "kinopoisk": null,
+                "userRating": {
+                    "overall": {
+                        "value": 7.5,
+                        "count": 25059
+                    }
+                },
+                "isFavorite": false,
+                "type": {
+                    "id": "5575d413cc1c724f5a8e10e6",
+                    "code": "other",
+                    "type": "theme",
+                    "status": "reviewed",
+                    "name": "Другое",
+                    "plural": null,
+                    "namePlural": null,
+                    "nameCases": {
+                        "acc": "на другое",
+                        "gen": null
+                    }
+                },
+                "tags": [
+                    {
+                        "id": "57038017b4660157b1f164f3",
+                        "code": "show",
+                        "type": "format",
+                        "status": "approved",
+                        "name": "Шоу",
+                        "plural": null,
+                        "namePlural": null,
+                        "nameCases": {
+                            "acc": "на шоу",
+                            "gen": "шоу"
+                        }
+                    },
+                    {
+                        "id": "56aa6bb5cc1c72132c203533",
+                        "code": "ice-show",
+                        "type": "theme",
+                        "status": "approved",
+                        "name": "Ледовое шоу",
+                        "plural": null,
+                        "namePlural": null,
+                        "nameCases": {
+                            "acc": null,
+                            "gen": null
+                        }
+                    },
+                    {
+                        "id": "57f7b03bfc8131fad92b6c2f",
+                        "code": "kids",
+                        "type": "theme",
+                        "status": "approved",
+                        "name": "Детям",
+                        "plural": null,
+                        "namePlural": null,
+                        "nameCases": {
+                            "acc": null,
+                            "gen": null
+                        }
+                    },
+                    {
+                        "id": "566990fc37753606e28d46e4",
+                        "code": "sport",
+                        "type": "format",
+                        "status": "approved",
+                        "name": "Спорт",
+                        "plural": null,
+                        "namePlural": null,
+                        "nameCases": {
+                            "acc": null,
+                            "gen": null
+                        }
+                    }
+                ],
+                "image": {
+                    "subType": null,
+                    "source": {
+                        "id": null,
+                        "title": "vtb-arena.com",
+                        "url": null
+                    },
+                    "bgColor": "#384e78",
+                    "baseColor": "#3a425a",
+                    "eventCover": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s270x135",
+                        "width": 270,
+                        "height": 135,
+                        "precision": 1
+                    },
+                    "eventCoverXS": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/90x60",
+                        "width": 90,
+                        "height": 60,
+                        "precision": 1
+                    },
+                    "eventCoverS": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/100x60",
+                        "width": 100,
+                        "height": 60,
+                        "precision": 1
+                    },
+                    "eventCoverL": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s380x220",
+                        "width": 380,
+                        "height": 220,
+                        "precision": 1
+                    },
+                    "eventCoverL2x": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s760x440",
+                        "width": 760,
+                        "height": 440,
+                        "precision": 1
+                    },
+                    "eventCoverM": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s380x190",
+                        "width": 380,
+                        "height": 190,
+                        "precision": 1
+                    },
+                    "eventCoverM2x": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s760x380",
+                        "width": 760,
+                        "height": 380,
+                        "precision": 1
+                    },
+                    "featured": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s940x380",
+                        "width": 940,
+                        "height": 380,
+                        "precision": 1
+                    },
+                    "featuredSelection": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s420x140",
+                        "width": 420,
+                        "height": 140,
+                        "precision": 1
+                    },
+                    "headingPrimaryS": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s1260x400",
+                        "width": 1260,
+                        "height": 400,
+                        "precision": 1
+                    },
+                    "microdata": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/orig",
+                        "width": 1928,
+                        "height": 1057,
+                        "precision": 1
+                    },
+                    "suggest": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s130x90",
+                        "width": 130,
+                        "height": 90,
+                        "precision": 1
+                    },
+                    "type": "image",
+                    "sizes": {
+                        "eventCover": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s270x135",
+                            "width": 270,
+                            "height": 135,
+                            "precision": 1
+                        },
+                        "eventCoverXS": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/90x60",
+                            "width": 90,
+                            "height": 60,
+                            "precision": 1
+                        },
+                        "eventCoverS": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/100x60",
+                            "width": 100,
+                            "height": 60,
+                            "precision": 1
+                        },
+                        "eventCoverL": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s380x220",
+                            "width": 380,
+                            "height": 220,
+                            "precision": 1
+                        },
+                        "eventCoverL2x": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s760x440",
+                            "width": 760,
+                            "height": 440,
+                            "precision": 1
+                        },
+                        "eventCoverM": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s380x190",
+                            "width": 380,
+                            "height": 190,
+                            "precision": 1
+                        },
+                        "eventCoverM2x": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s760x380",
+                            "width": 760,
+                            "height": 380,
+                            "precision": 1
+                        },
+                        "featured": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s940x380",
+                            "width": 940,
+                            "height": 380,
+                            "precision": 1
+                        },
+                        "featuredSelection": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s420x140",
+                            "width": 420,
+                            "height": 140,
+                            "precision": 1
+                        },
+                        "headingPrimaryS": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s1260x400",
+                            "width": 1260,
+                            "height": 400,
+                            "precision": 1
+                        },
+                        "microdata": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/orig",
+                            "width": 1928,
+                            "height": 1057,
+                            "precision": 1
+                        },
+                        "suggest": {
+                            "url": "https://avatars.mds.yandex.net/get-afishanew/34116/48e154c6e21d9eff0615db777a2a97c8/s130x90",
+                            "width": 130,
+                            "height": 90,
+                            "precision": 1
+                        }
+                    }
+                },
+                "promoImage2": {
+                    "featuredDesktop": {
+                        "url": "https://avatars.mds.yandex.net/get-afishanew/36842/3f63dc703ce2f182de6ddd3505023779/s940x380",
+                        "width": 940,
+                        "height": 380,
+                        "precision": 1,
+                        "retina": {
+                            "1x": "https://avatars.mds.yandex.net/get-afishanew/36842/3f63dc703ce2f182de6ddd3505023779/s940x380",
+                            "2x": "https://avatars.mds.yandex.net/get-afishanew/36842/3f63dc703ce2f182de6ddd3505023779/s1880x760"
+                        }
+                    }
+                },
+                "promoVideo2": {},
+                "tickets": [
+                    {
+                        "id": "359238",
+                        "price": {
+                            "currency": "rub",
+                            "min": 90000,
+                            "max": 315000
+                        },
+                        "discount": {
+                            "dateStart": "2023-03-22T11:00:00",
+                            "dateFinish": "2023-03-29T00:00:00",
+                            "discountPercent": 10
+                        },
+                        "saleStatus": "available",
+                        "hasSpecificLoyalty": false,
+                        "hasSpecificPlusWalletPercent": true,
+                        "plusWalletPercent": 10,
+                        "discountPercents": []
+                    }
+                ]
+            },
+            "scheduleInfo": {
+                "dates": [
+                    "2023-04-09"
+                ],
+                "dateStarted": "2023-04-09",
+                "dateEnd": "2023-04-09",
+                "dateGroups": [
+                    {
+                        "title": "Апрель",
+                        "date": "2023-04-09",
+                        "period": 1,
+                        "hasTickets": true,
+                        "hasDiscounts": true
+                    }
+                ],
+                "dateReleased": null,
+                "permanent": false,
+                "multiSession": false,
+                "onlyPlace": {
+                    "id": "5a3a6cae9ef38ea3a2a0a379",
+                    "url": "/moscow/concert/places/vtb-arena",
+                    "title": "ВТБ Арена",
+                    "logo": null,
+                    "address": "Ленинградский просп., 36",
+                    "type": {
+                        "id": "5575d419cc1c724f5a8e1150",
+                        "rubricUrl": "/moscow/stadium",
+                        "rubricPlacesUrl": "/moscow/stadium/places",
+                        "code": "stadium",
+                        "description": null,
+                        "type": "place",
+                        "status": "approved",
+                        "name": "Стадион",
+                        "namePlural": "стадионы",
+                        "nameAcc": null,
+                        "nameGen": null,
+                        "nameAdj": null,
+                        "plural": null
+                    },
+                    "tags": [
+                        {
+                            "id": "5575d419cc1c724f5a8e1150",
+                            "rubricUrl": "/moscow/stadium",
+                            "rubricPlacesUrl": "/moscow/stadium/places",
+                            "code": "stadium",
+                            "description": null,
+                            "type": "place",
+                            "status": "approved",
+                            "name": "Стадион",
+                            "namePlural": "стадионы",
+                            "nameAcc": null,
+                            "nameGen": null,
+                            "nameAdj": null,
+                            "plural": null
+                        }
+                    ],
+                    "systemTags": [
+                        {
+                            "code": "stadium"
+                        },
+                        {
+                            "code": "mainpage-export"
+                        }
+                    ],
+                    "city": {
+                        "id": "moscow",
+                        "name": "Москва",
+                        "geoid": 213,
+                        "timezone": "Europe/Moscow"
+                    },
+                    "metro": [
+                        {
+                            "name": "Петровский парк",
+                            "colors": [
+                                "#60bfbf"
+                            ]
+                        },
+                        {
+                            "name": "Динамо",
+                            "colors": [
+                                "#3aa63a"
+                            ]
+                        }
+                    ],
+                    "coordinates": {
+                        "longitude": 37.559739,
+                        "latitude": 55.79145
+                    },
+                    "bgColor": "#8f3251",
+                    "logoColor": "#dc4d7c",
+                    "distance": null,
+                    "isFavorite": false,
+                    "promoImage2FeaturedDesktop": null,
+                    "promoImage2FeaturedBannerDesktop": null,
+                    "promoVideo2FeaturedDesktop": null
+                },
+                "oneOfPlaces": {
+                    "id": "5a3a6cae9ef38ea3a2a0a379",
+                    "url": "/moscow/concert/places/vtb-arena",
+                    "title": "ВТБ Арена",
+                    "logo": null,
+                    "address": "Ленинградский просп., 36",
+                    "type": {
+                        "id": "5575d419cc1c724f5a8e1150",
+                        "rubricUrl": "/moscow/stadium",
+                        "rubricPlacesUrl": "/moscow/stadium/places",
+                        "code": "stadium",
+                        "description": null,
+                        "type": "place",
+                        "status": "approved",
+                        "name": "Стадион",
+                        "namePlural": "стадионы",
+                        "nameAcc": null,
+                        "nameGen": null,
+                        "nameAdj": null,
+                        "plural": null
+                    },
+                    "tags": [
+                        {
+                            "id": "5575d419cc1c724f5a8e1150",
+                            "rubricUrl": "/moscow/stadium",
+                            "rubricPlacesUrl": "/moscow/stadium/places",
+                            "code": "stadium",
+                            "description": null,
+                            "type": "place",
+                            "status": "approved",
+                            "name": "Стадион",
+                            "namePlural": "стадионы",
+                            "nameAcc": null,
+                            "nameGen": null,
+                            "nameAdj": null,
+                            "plural": null
+                        }
+                    ],
+                    "systemTags": [
+                        {
+                            "code": "stadium"
+                        },
+                        {
+                            "code": "mainpage-export"
+                        }
+                    ],
+                    "city": {
+                        "id": "moscow",
+                        "name": "Москва",
+                        "geoid": 213,
+                        "timezone": "Europe/Moscow"
+                    },
+                    "metro": [
+                        {
+                            "name": "Петровский парк",
+                            "colors": [
+                                "#60bfbf"
+                            ]
+                        },
+                        {
+                            "name": "Динамо",
+                            "colors": [
+                                "#3aa63a"
+                            ]
+                        }
+                    ],
+                    "coordinates": {
+                        "longitude": 37.559739,
+                        "latitude": 55.79145
+                    },
+                    "bgColor": "#8f3251",
+                    "logoColor": "#dc4d7c",
+                    "distance": null,
+                    "isFavorite": false,
+                    "promoImage2FeaturedDesktop": null,
+                    "promoImage2FeaturedBannerDesktop": null,
+                    "promoVideo2FeaturedDesktop": null
+                },
+                "placePreview": "ВТБ Арена",
+                "placesTotal": 1,
+                "preview": {
+                    "type": "date",
+                    "text": "9 апреля, 18:00",
+                    "singleDate": {
+                        "day": "9",
+                        "month": "апреля"
+                    },
+                    "regularity": null,
+                    "startDate": null
+                },
+                "collapsedText": null,
+                "tagsPreview": null,
+                "prices": [
+                    {
+                        "currency": "rub",
+                        "value": 90000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 144000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 225000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 270000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 288000
+                    },
+                    {
+                        "currency": "rub",
+                        "value": 315000
+                    }
+                ],
+                "pushkinCardAllowed": false,
+                "regularity": {
+                    "singleShowtime": "2023-04-09T18:00:00",
+                    "isRegular": true,
+                    "daily": [],
+                    "weekly": []
+                }
+            },
+            "distance": null,
+            "isPersonal": false,
+            "commentsCount": 0
+        }
+    ]
+}
