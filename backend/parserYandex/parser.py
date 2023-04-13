@@ -18,19 +18,6 @@ class Parser():
             func(*args, **kwargs)
             kwargs["driver"].close()
         return _wrapper
-    
-    def test_html(paths: list[str] = None) -> None:
-        with open(paths[0], "r", encoding="utf8") as html_src:
-            with open(paths[1], "r", encoding="utf8") as html_test:
-                text1 = html_src.read()
-                text2 = html_test.read()
-                for i in range(len(text1)):
-                    try:
-                        if text1[i] != text2[i]:
-                            raise ValueError(f"Uncorrect. Index = {i + 1}")
-                    except Exception as err:
-                        print(err)
-                    print("Correct!")
 
     def openEvents(driver = None):
         while True:

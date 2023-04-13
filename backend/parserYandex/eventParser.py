@@ -37,7 +37,7 @@ def eventParser(page_source: str = None) -> dict():
     age_limit = soup.find("div", {'class': 'event-concert-heading__content-rating'}).get_text()
     description = soup.find("div", "concert-description__text-wrap").contents[0].get_text()
     event_type = soup.find("div", {'class': 'event-concert-description__cities'}).get_text().split(' ')[0]
-    dates = findDate(soup)
+    date = findDate(soup)
     time = soup.find_all("dd", {'class': 'event-attributes__category-value'})[-1].get_text()
     event = {'title': title,
              'raiting': raiting,
@@ -47,7 +47,7 @@ def eventParser(page_source: str = None) -> dict():
              'age_limit': age_limit,
              'description': description,
              'event_type': event_type,
-             'dates': dates,
+             'dates': date,
              'time': time
              }
     return event
