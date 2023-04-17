@@ -1,5 +1,6 @@
 import bs4
 import json
+from datetime import date,timedelta
 
 def findDate(soup = None) -> list():
     months = {'января': '01',
@@ -15,14 +16,35 @@ def findDate(soup = None) -> list():
               'ноября': '11',
               'декабря': '12',}
     dates_elem_list = soup.find("div", {'class': 'schedule-other-item schedule-other-list__item schedule-other-list__item_more_no schedule-other-list__item_more-tickets_no schedule-other-list__item_has-tickets_yes schedule-other-list__item_has-discounts_no schedule-grid__row'})
-    date = dates_elem_list.find("div", {'class': 'schedule-date__date'}).get_text()
-    month = months[dates_elem_list.find("div", {'class': 'schedule-date__month'}).get_text().lower()]
-    return date + '.' + month
+    if dates_elem_list is not None:
+        date_event = dates_elem_list.find("div", {'class': 'schedule-date__date'}).get_text()
+        month = months[dates_elem_list.find("div", {'class': 'schedule-date__month'}).get_text().lower()]
+    else:
+        date_event = soup.find("span", {'data-component': 'Chip2', 'data-testid': 'chip2'})
+        if date_event is None:
+            date_event = 'Cегодня'
+        else:
+            date_event = date_event.get_text()
+        if date_event == "Сегодня":
+            return date.today().strftime("""%d-%m""")
+        elif date_event == 'Завтра':
+            date_event = date.today() + timedelta(days=1)
+            return date_event.strftime("""%d-%m""")
+        elif date_event == 'Послезавтра':
+            date_event = date.today() + timedelta(days=2)
+            return date_event.strftime("""%d-%m""")
+        else:
+            date_event, month = date_event.split(' ')
+            month = months[month.lower()]
+    return date_event + '.' + month
 
 def eventParser(page_source: str = None) -> dict():
-    with open("C:\\projects\\Parsers\\templates\\test.html", "w+", encoding="utf8") as page_file:
+    with open("C:\\projects\\vMeste\\backend\\templates\\test.html", "w+", encoding="utf8") as page_file:
         page_file.write(page_source)
     soup = bs4.BeautifulSoup(page_source, 'html.parser')
+    buy_button = soup.find("div", {'class': 'buy-tickets-button event-concert-description__buy-tickets'})
+    if buy_button is None:
+        return None
     title = soup.find("div", {'class': 'event-concert-description__title-info'}).get_text()
     list_types = soup.find("ul", {'class': 'tags tags_size_l tags_theme_light event-concert-heading__tags'})
     raiting = ''
@@ -31,14 +53,21 @@ def eventParser(page_source: str = None) -> dict():
     except:
         raiting = ''
     place = soup.find("a", {'class': 'link link_theme_normal i-bem'})
-    place = place.contents[0].get_text()
+    if place is not None:
+        place = place.contents[0].get_text()
+    else:
+        place = 'Москва'
     genre = list_types.contents[0].get_text()
     cost = ''
     age_limit = soup.find("div", {'class': 'event-concert-heading__content-rating'}).get_text()
     description = soup.find("div", "concert-description__text-wrap").contents[0].get_text()
     event_type = soup.find("div", {'class': 'event-concert-description__cities'}).get_text().split(' ')[0]
     date = findDate(soup)
-    time = soup.find_all("dd", {'class': 'event-attributes__category-value'})[-1].get_text()
+    time = soup.find_all("dd", {'class': 'event-attributes__category-value'})
+    if time != []:
+        time = time[-1].get_text()
+    else:
+        time = ''
     event = {'title': title,
              'raiting': raiting,
              'place': place,
