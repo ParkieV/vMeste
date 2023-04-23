@@ -1,0 +1,25 @@
+.about_content {
+    display: flex;
+    flex-direction: column;
+    padding-top: 61px;
+    padding-left: 48px;
+    padding-right: 100px;
+    .about_h {
+        font-family: 'Montserrat Alternates';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 50px;
+        line-height: 61px;
+        color: #000000;
+          
+    }
+    .about_text {
+        font-family: 'Montserrat Alternates';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 140%;
+        color: #2D2D2D;
+        margin-top: 40px;
+    }
+}

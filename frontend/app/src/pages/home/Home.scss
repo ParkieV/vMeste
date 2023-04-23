@@ -1,0 +1,27 @@
+.content_home {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 50px;
+    .horizontal_scroll {
+        max-width: 1440px;
+        overflow-x: scroll;
+        margin: auto;
+
+        .items {
+            display: flex;
+            flex-direction: row;
+            .item {
+                min-width: 450px;
+                height: 364px;
+                border: 1px solid #2D2D2D;
+                border-radius: 20px;
+                margin-right: 40px;
+                .event_img {
+                    display: flex;
+                    justify-content: center;
+                    margin-top: 17px;
+                }
+            }
+        }
+    }
+}

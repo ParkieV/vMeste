@@ -1,0 +1,17 @@
+.input {
+    background: #FBFBFB;
+    border: 2px solid #2D2D2D;
+    border-radius: 100px;
+    width: 100%;
+    margin: 0px;
+    padding-left: 24px;
+    margin-bottom: 35px;
+}
+input::placeholder {
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+    color: #2D2D2D;
+  }
