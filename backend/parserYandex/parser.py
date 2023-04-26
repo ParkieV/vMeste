@@ -12,6 +12,7 @@ import datetime
 import os
 import json
 import traceback
+import requests
 
 
 class Parser():
@@ -81,10 +82,10 @@ class Parser():
         with open("C:\\projects\\vMeste\\backend\\templates\\data.json", "r") as json_file:
             links = json.load(json_file)
         data = []
-        for link in links:
-            driver.get(link)
+        for link in range(0, 10):
+            driver.get(links[link])
             event_info = eventParser(driver.page_source)
-            if event_info is not None:
+            if event_info:
                 data.append(event_info)
         with open("C:\\projects\\vMeste\\backend\\templates\\data_events.json", "w+") as json_file:
             json.dump(data, json_file)
