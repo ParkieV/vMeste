@@ -21,7 +21,578 @@
                     justify-content: center;
                     margin-top: 17px;
                 }
+                .name_type_place_event{
+                    margin-top: 22px;
+                    margin-left: 22px;
+                    margin-right: 22px;
+                    display: flex;
+                    justify-content: space-between;
+                    .name_place {
+                        display: flex;
+                        flex-direction: column;
+                        .name_event {
+                            font-family: 'Montserrat Alternates';
+                            font-style: normal;
+                            font-weight: 500;
+                            font-size: 24px;
+                            line-height: 29px;
+                            color: #2D2D2D;
+                            display: flex;
+                        }
+                        .type_place {
+                            display: flex;
+                            .place {
+                                font-family: 'Montserrat Alternates';
+                                font-style: normal;
+                                font-weight: 400;
+                                font-size: 12px;
+                                line-height: 15px;
+                                color: #2D2D2D;
+                            }
+                            .type {
+                                font-family: 'Montserrat Alternates';
+                                font-style: normal;
+                                font-weight: 400;
+                                font-size: 12px;
+                                line-height: 15px;
+                                color: #2D2D2D; 
+                                margin-left: 8px; 
+                            }
+                        }
+                    }
+
+                }
             }
         }
     }
+    .conteiner {
+        margin: auto;
+        display: flex;
+        margin-top: 80px;
+
+        .vertical_scroll {
+            max-height: 707px;
+            overflow-y: scroll;
+            background: #FFFFFF;
+            border: 1.25px solid #2D2D2D;
+            border-top-left-radius: 20px;
+            border-bottom-left-radius: 20px;
+            padding: 26px 14px 0px 16px;
+            width: 30%;
+    
+            .items_vertical {
+                display: flex;
+                flex-direction: column;
+                .item_vertical {
+                    min-width: 384px;
+                    height: 496px;
+                    border: 1px solid #2D2D2D;
+                    border-radius: 20px;
+                    margin-bottom: 32px;
+                    margin-right: 14px;
+                    .event_img {
+                        display: flex;
+                        justify-content: center;
+                        margin-top: 17px;
+                    }
+                    .name_type_place_event{
+                        margin-top: 22px;
+                        margin-left: 22px;
+                        margin-right: 22px;
+                        display: flex;
+                        justify-content: space-between;
+                        .name_place {
+                            display: flex;
+                            flex-direction: column;
+                            .name_event {
+                                font-family: 'Montserrat Alternates';
+                                font-style: normal;
+                                font-weight: 500;
+                                font-size: 24px;
+                                line-height: 29px;
+                                color: #2D2D2D;
+                                display: flex;
+                            }
+                                .place {
+                                    font-family: 'Montserrat Alternates';
+                                    font-style: normal;
+                                    font-weight: 400;
+                                    font-size: 12px;
+                                    line-height: 15px;
+                                    color: #2D2D2D;
+                                }
+                            .type_age {
+                                display: flex;
+                                margin-top: 4px;
+                                .type {
+                                    font-family: 'Montserrat Alternates';
+                                    font-style: normal;
+                                    font-weight: 400;
+                                    font-size: 12px;
+                                    line-height: 15px;
+                                    color: #2D2D2D; 
+                                    
+                                }
+                                .age {
+                                    font-family: 'Montserrat Alternates';
+                                    font-style: normal;
+                                    font-weight: 400;
+                                    font-size: 12px;
+                                    line-height: 15px;
+                                    color: #2D2D2D; 
+                                    margin-left: 40px;  
+                                }
+                            }
+                            .price_icon {
+                                display: flex;
+                                margin-top: 20px;
+                                .price {
+                                    background: #F4B540;
+                                    border-radius: 100px;
+                                    font-family: 'Montserrat Alternates';
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    font-size: 16px;
+                                    line-height: 20px;
+                                    display: flex;
+                                    align-items: center;
+                                    color: #2D2D2D;
+                                    padding-left: 16px;
+                                    padding-right: 16px;
+                                    margin-top: 8px;
+                                    margin-bottom: 8px;
+                                }
+                                .bookmark {
+                                    margin-left: 130px;
+                                    margin-right: 20px;
+                                }
+                            }
+                        }
+    
+                    }
+                }
+            }
+        }
+        .map_conteiner {
+            background: #FFFFFF;
+            border: 1.25px solid #2D2D2D;
+            border-top-right-radius: 20px;
+            border-bottom-right-radius: 20px;
+            padding: 10px 10px 10px 0px;
+            width: 70%;
+            
+        }
+    }
+    .filters_conteiner {
+        display: flex;
+        margin-top: 80px;
+        flex-direction: column;
+        .categori_conteiner {
+            display: flex;
+            flex-direction: column;
+            .h_categori{
+                font-family: 'Montserrat Alternates';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 30px;
+                line-height: 37px;
+                color: #2D2D2D;
+            }
+            .categories {
+                display: flex;
+                margin-top: 16px;
+                .btn_category {
+                    border: 1.25px solid #2D2D2D;
+                    border-radius: 100px;
+                    padding: 8px 28px 8px 28px;
+                    font-family: 'Montserrat Alternates';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 24px;
+                    line-height: 29px;
+                    display: flex;
+                    align-items: center;
+                    color: #2D2D2D;
+                    margin-right: 40px;
+                }
+            }
+        }
+        .date_time_conteiner {
+            display: flex;
+            flex-direction: column;
+            margin-top: 63px;
+            .h_date_time{
+                font-family: 'Montserrat Alternates';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 30px;
+                line-height: 37px;
+                color: #2D2D2D;
+            }
+            .date_conteiner {
+                display: flex;
+                margin-top: 17px;
+                .date {
+                    padding: 8px 44px 8px 44px;
+                    border: 1.25px solid #2D2D2D;
+                    border-radius: 20px;
+                    font-family: 'Montserrat Alternates';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 24px;
+                    line-height: 29px;
+                    color: #2D2D2D;
+                }
+            }
+        }
+        flex-direction: column;
+        .people_conteiner {
+            display: flex;
+            flex-direction: column;
+            margin-top: 43px;
+            .h_people{
+                font-family: 'Montserrat Alternates';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 30px;
+                line-height: 37px;
+                color: #2D2D2D;
+            }
+            .peoples {
+                display: flex;
+                margin-top: 16px;
+                .btn_people {
+                    border: 1.25px solid #2D2D2D;
+                    border-radius: 100px;
+                    padding: 8px 28px 8px 28px;
+                    font-family: 'Montserrat Alternates';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 24px;
+                    line-height: 29px;
+                    display: flex;
+                    align-items: center;
+                    color: #2D2D2D;
+                    margin-right: 16px;
+                }
+            }
+        }
+    }
+    .price_conteiner {
+        display: flex;
+        margin-top: 39px;
+        flex-direction: column;
+        .h_price {
+            font-family: 'Montserrat Alternates';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 30px;
+            line-height: 37px;
+            color: #2D2D2D;
+        }
+        .price {
+            display: flex;
+            flex-direction: row;
+            margin-top: 30px;
+            margin-bottom: 33px;
+            .price_1 {
+                .price_1_input {
+                    border: 1.25px solid #2D2D2D;
+                    border-radius: 20px;
+                    width: 219px;
+                    height: 45px;
+                    text-align: center;
+                }
+            }
+            .line {
+                width: 27px;
+                height: 1px;
+                background-color: #2D2D2D;
+                margin-top: 20px;
+                margin-left: 11px;
+                margin-right: 11px;
+            }
+            .price_2 {
+                .price_2_input {
+                    border: 1.25px solid #2D2D2D;
+                    border-radius: 20px;
+                    width: 219px;
+                    height: 45px;
+                    text-align: center;
+                }
+            }
+        }
+        .free_tickets {
+            display: flex;
+
+
+            .free_tickets_h {
+              font-family: 'Montserrat Alternates';
+              font-style: normal;
+              font-weight: 500;
+              font-size: 24px;
+              line-height: 29px;
+              color: #2D2D2D;
+            }
+
+            
+        }
+
+        .pushkin_card {
+            display: flex;
+            margin-top: 37px;
+
+            .pushkin_card_h {
+                font-family: 'Montserrat Alternates';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 24px;
+                line-height: 29px;
+                color: #2D2D2D;
+              }    
+        }
+    }
+    .conteiner_horizontal_scroll {
+        margin: auto;
+        display: flex;
+        margin-top: 80px;
+
+        .horizontal_scroll_2 {
+            max-width: 1440px;
+            overflow-x: scroll;
+            margin: auto;
+    
+            .items_horizontal_2 {
+                display: flex;
+                flex-direction: row;
+                .item_horizontal_2 {
+                    min-width: 384px;
+                    height: 496px;
+                    border: 1px solid #2D2D2D;
+                    border-radius: 20px;
+                    margin-bottom: 32px;
+                    margin-right: 14px;
+                    .event_img {
+                        display: flex;
+                        justify-content: center;
+                        margin-top: 17px;
+                    }
+                    .name_type_place_event{
+                        margin-top: 22px;
+                        margin-left: 22px;
+                        margin-right: 22px;
+                        display: flex;
+                        justify-content: space-between;
+                        .name_place {
+                            display: flex;
+                            flex-direction: column;
+                            .name_event {
+                                font-family: 'Montserrat Alternates';
+                                font-style: normal;
+                                font-weight: 500;
+                                font-size: 24px;
+                                line-height: 29px;
+                                color: #2D2D2D;
+                                display: flex;
+                            }
+                                .place {
+                                    font-family: 'Montserrat Alternates';
+                                    font-style: normal;
+                                    font-weight: 400;
+                                    font-size: 12px;
+                                    line-height: 15px;
+                                    color: #2D2D2D;
+                                }
+                            .type_age {
+                                display: flex;
+                                margin-top: 4px;
+                                .type {
+                                    font-family: 'Montserrat Alternates';
+                                    font-style: normal;
+                                    font-weight: 400;
+                                    font-size: 12px;
+                                    line-height: 15px;
+                                    color: #2D2D2D; 
+                                    
+                                }
+                                .age {
+                                    font-family: 'Montserrat Alternates';
+                                    font-style: normal;
+                                    font-weight: 400;
+                                    font-size: 12px;
+                                    line-height: 15px;
+                                    color: #2D2D2D; 
+                                    margin-left: 40px;  
+                                }
+                            }
+                            .price_icon {
+                                display: flex;
+                                margin-top: 20px;
+                                .price {
+                                    background: #F4B540;
+                                    border-radius: 100px;
+                                    font-family: 'Montserrat Alternates';
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    font-size: 16px;
+                                    line-height: 20px;
+                                    display: flex;
+                                    align-items: center;
+                                    color: #2D2D2D;
+                                    padding-left: 16px;
+                                    padding-right: 16px;
+                                    margin-top: 8px;
+                                    margin-bottom: 8px;
+                                }
+                                .bookmark {
+                                    margin-left: 130px;
+                                    margin-right: 20px;
+                                }
+                            }
+                        }
+    
+                    }
+                }
+            }
+        }
+    }
+
+    .conteiner_all_event {
+        display: flex;
+        margin-top: 145px;
+        .all_event {
+            width: 384px;
+            display: flex;
+            flex-direction: column;
+            margin-left: 40px;
+            .event {
+                border: 1.25px solid #2D2D2D;
+                border-radius: 20px;
+                width: 100%;
+                height: 61px;
+                display: flex;
+                justify-content: space-around;
+            }
+            .h_even {
+                font-family: 'Montserrat Alternates';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 24px;
+                line-height: 29px;
+                display: flex;
+                align-items: center;
+                color: #2D2D2D;
+            }
+            .time_event {
+                font-family: 'Montserrat Alternates';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 20px;
+                line-height: 24px;
+                display: flex;
+                align-items: center;
+                color: #2D2D2D;
+            }
+            .dropdown_icon {
+                margin-top: 18.5px;
+            }
+            .line_conteiner {
+                display: flex;
+                margin-top: 12px;
+                margin-bottom: 12px;
+                .line_event {
+                    width: 1px;
+                    height: 40px;
+                    background-color: #2D2D2D;
+                    margin-left: 172px;
+                    margin-right: 7px;   
+                }
+                .time_route {
+                    font-family: 'Montserrat Alternates';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 14px;
+                    line-height: 17px;
+                    display: flex;
+                    align-items: center;
+                    color: #2D2D2D;
+                }
+                .type_route {
+                    display: flex;
+                    align-items: center;
+                    margin-left: 10.5px;
+                }
+            }
+            .dropdown_event {
+                display: flex;
+                flex-direction: column;
+                padding: 20px 20px 16px 20px;
+                border: 1.25px solid #2D2D2D;
+                border-radius: 20px;
+
+                .dropdown_event_img {
+                    margin: auto;
+                    background: #D9D9D9;
+                    border-radius: 20px;
+                    width: 344px;
+                    height: 316px;
+                }
+                .dropdown_name_time_icon {
+                    display: flex;
+                    flex-direction: row;
+                    margin-top: 22px;
+                    justify-content: space-between;
+                    .dropdown_name {
+                        font-family: 'Montserrat Alternates';
+                        font-style: normal;
+                        font-weight: 500;
+                        font-size: 24px;
+                        line-height: 29px;
+                        display: flex;
+                        align-items: center;
+                        color: #2D2D2D;
+                    }
+                    .dropdown_time {
+                        font-family: 'Montserrat Alternates';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 20px;
+                        line-height: 24px;
+                        display: flex;
+                        align-items: center;
+                        color: #2D2D2D;
+                        
+                    }
+                    .icon_drop {
+                        display: flex;
+                        align-items: center;                       
+                    }
+                }
+
+                .buy_btn_cont {
+                    display: flex;
+                    margin-top: 26px;
+                    .buy_btn {
+                        display: flex;
+                        background: #F4B540;
+                        border-radius: 20px;
+                        padding: 9px 18px 9px 18px;
+                        font-family: 'Montserrat Alternates';
+                        font-style: normal;
+                        font-weight: 500;
+                        font-size: 14px;
+                        line-height: 17px;
+                        display: flex;
+                        align-items: center;
+                        color: #2D2D2D;
+                    }
+                }
+
+            }
+        }
+    }
+}
+
+button:hover {
+    cursor: pointer;
 }
