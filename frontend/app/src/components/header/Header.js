@@ -9,7 +9,7 @@ export const Header = () => {
     return(
         <div className='header'>
 
-           <NavLink to='/'><div className='logo'><img src={headerLogo}></img></div></NavLink>
+           <NavLink to='/home'><div className='logo'><img src={headerLogo}></img></div></NavLink>
 
             <div className='search'><form action="" method="get"><input className='search_input' name="" placeholder="поиск" type="search"></input></form></div>
 

@@ -3,6 +3,7 @@ import './Registration.scss'
 import Logo from '../../image/Logo_log.svg'
 import { Input } from "../../components/input/Input";
 import {Context} from '../../context/Context'
+import {NavLink} from 'react-router-dom'
 
 export const Registration = () => {
     const {renderInputsRegistration} = useContext(Context)
@@ -12,7 +13,7 @@ export const Registration = () => {
                 <div className="background_image">
                     <div className="registration_background"></div>
                     <div className="login_content">
-                        <div className="logo"><img src={Logo}></img></div>
+                       <NavLink to='/home'><div className="logo"><img src={Logo}></img></div></NavLink> 
                         <div className="inputs">
                             {renderInputsRegistration()}
                         </div>

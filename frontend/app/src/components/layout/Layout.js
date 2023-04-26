@@ -19,7 +19,8 @@ const Layout = () => {
                 <div className='content'>
                     <div className='routes'>
                         <Routes>
-                            <Route path = '/' exact element= {<Home/>}/>
+                            <Route path = '/' exact element= {<Login/>}/>
+                            <Route path = '/home' exact element= {<Home/>}/>
                             <Route path = '/about' exact  element = {<About/>}/>
                             <Route path = '/account' exact elemnt = {<Account/>}/>
                             <Route path = '/login' exact element = {<Login/>}/>

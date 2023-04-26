@@ -7,7 +7,7 @@ export const Navbar = () => {
         <nav>
             <ul>
                 <li>
-                    <NavLink to = '/'>
+                    <NavLink to = '/home'>
                         главная
                     </NavLink>
                 </li>

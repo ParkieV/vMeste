@@ -2,6 +2,7 @@ import React, { useContext } from "react";
 import './Login.scss'
 import Logo from '../../image/Logo_log.svg'
 import {Context} from '../../context/Context'
+import {NavLink} from 'react-router-dom'
 
 export const Login = () => {
     const {renderInputs} = useContext(Context)
@@ -12,7 +13,7 @@ export const Login = () => {
                     <div className="left_background"></div>
                     <div className="right_bacground"></div>
                     <div className="login_content">
-                        <div className="logo"><img src={Logo}></img></div>
+                        <NavLink to='/home'><div className="logo"><img src={Logo}></img></div></NavLink>
                         <div className="inputs">
                             {renderInputs()}
                         </div>
